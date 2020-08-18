@@ -1,5 +1,5 @@
-# mydomashka
-Тут я публикую свои "Интересные" домашки! <br>
-Для информации, может кому-то интересно(нет): <br>
-1. Anketa - написана на Java(Среда разработки [Android Studio](#)) <br>
-2. Journal - тоже написана на Java(Среда разработки [Android Studio](#)) <br>
+# Java Projects
+My Android Java projects <br>
+Some information about this projects: <br>
+1. Anketa - The project is written in Java ( IDE [Android Studio](#) ) <br>
+2. Journal - The project is written in Java ( IDE [Android Studio](#) ) <br>
